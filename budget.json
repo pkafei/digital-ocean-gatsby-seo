@@ -1,0 +1,19 @@
+[
+    {
+      "path": "/*",
+      "options": {
+         "firstPartyHostnames": ["*.digitalocean.com"]
+      },
+      "timings": [
+        {
+          "metric": "interactive",
+          "budget": 5000
+        },
+        {
+          "metric": "first-meaningful-paint",
+          "budget": 2000
+        }
+      ]
+    
+    }
+]
