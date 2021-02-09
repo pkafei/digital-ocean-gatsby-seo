@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Wonderous World of Whale Watching`,
-    description: `Come an enjoy an experience of a lifetime, watch whales with us.`,
+    description: `Come and enjoy an experience of a lifetime- watch whales with us.`,
     author: `@digitalocean`,
     keywords: `whales, marine life, trip, recreation`, 
     image: `https://digital-ocean-gatsby-seo-xkmfq.ondigitalocean.app/static/a32c1873f46145a07e332efcb798d935/630fb/whale-watching.png`,
