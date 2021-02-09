@@ -1,8 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Wonderous World of Whale Watching`,
+    description: `Come an enjoy an experience of a lifetime, watch whales with us.`,
+    author: `@digitalocean`,
+    keywords: `whales, marine life, trip, recreation`,
+    image: `/images/whale-watching.png`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
